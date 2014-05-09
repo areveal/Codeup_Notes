@@ -28,7 +28,10 @@ example
 $age = 22;
 echo ($age >= 18) ? "yes!" : "no, try disney!";
 ```
-
+will echo
+```
+yes!
+```
 
 
 #####LUNCH BREAK
