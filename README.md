@@ -4,7 +4,7 @@
 #This is another main heading
 
 Hello Codeup! This is a regular block of text.
----
+
 1. item 1
 1. item 2
 1. item 3
