@@ -6,7 +6,9 @@
 
 ####is_bool
 
-```is_bool($var);```
+```
+is_bool($var);
+```
 
 tests whether the passed value is a boolean or not.
 
