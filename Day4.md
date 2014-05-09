@@ -21,7 +21,6 @@ This is crazy cool but crazy difficult to use and read!!
 
 This is a shortcut for if else statements
 ```
-$age = 22;
 [condition] ? [value if true] : [value is false];
 ```
 example
