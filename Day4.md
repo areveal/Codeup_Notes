@@ -5,10 +5,13 @@
 ##Ben B.
 
 ####is_bool
-
 ```
 is_bool($var);
 ```
-
 tests whether the passed value is a boolean or not.
 
+###|| (double pipe)
+```
+||
+```
+The OR combination operator.
