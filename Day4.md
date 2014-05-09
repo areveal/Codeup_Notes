@@ -15,3 +15,21 @@ tests whether the passed value is a boolean or not.
 ||
 ```
 The OR combination operator.
+
+###Ternary Operator
+This is crazy cool but crazy difficult to use and read!!
+
+This is a shortcut for if else statements
+```
+$age = 22;
+[condition] ? [value if true] : [value is false];
+```
+example
+```
+$age = 22;
+echo ($age >= 18) ? "yes!" : "no, try disney!";
+```
+
+
+
+#####LUNCH BREAK
