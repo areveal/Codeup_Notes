@@ -4,7 +4,8 @@
 
 ##Ben B.
 
-####is_bool
+###is_bool
+
 ```
 is_bool($var);
 ```
@@ -17,6 +18,7 @@ tests whether the passed value is a boolean or not.
 The OR combination operator.
 
 ###Ternary Operator
+
 This is crazy cool but crazy difficult to use and read!!
 
 This is a shortcut for if else statements
@@ -32,6 +34,25 @@ will echo
 ```
 yes!
 ```
-
-
 #####LUNCH BREAK
+
+## Chris
+
+####Would it be possible to nest a ternary operator??
+The answer is yes. While it looks atrocious it is possible to nest within ternary operators.
+```
+$is_admin = true;
+$is_logged_on = true;
+echo (is_logged_on)?($is_admin)?"You can make edits":"You must be an admin to make changes":"Please log on";
+```
+will echo
+```
+You can make edits
+```
+
+
+
+
+
+
+
