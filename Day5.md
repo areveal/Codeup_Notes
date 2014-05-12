@@ -28,3 +28,27 @@ Not actually random. Commonly referred to as sudo random numbers.
 * `$argc` - contains a count of all the argument.
 * `$argv` - contains an array of all values passed to PHP.
 * Theses variables can be passed into your file as variables.
+
+###For Loops
+These are used on incremented loops. Any loop that are looping by a number set will most likely use a for loop.
+```
+for ([start value];[end value];[incrementer]) {
+	[command];
+}
+```
+for example
+```
+for ($i = 0; $i <= 100; $i += 2) {
+    echo "\$i has a value of {$i}\n";
+}
+```
+will echo
+```
+$i has a value of 0
+$i has a value of 2
+$i has a value of 4
+.
+.
+.
+$i has a value of 100
+```
