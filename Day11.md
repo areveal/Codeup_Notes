@@ -27,3 +27,18 @@ Array
     [5] => Tony Stark
 )
 ```
+
+
+
+##Ben
+
+###Reading Files
+
+`fopen($filename, mode)` - Opens a file, returns a file pointer.
+		`r` - reads the file.
+		`w` - 
+`fread($handle, $length)` - Reads a file to a specific length using file pointer	
+`filesize($filename)` - returns the size of a file.... duh
+`fclose($handle)` - closes a handle to an open file pointer.
+
+
