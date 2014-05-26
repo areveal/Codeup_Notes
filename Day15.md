@@ -30,7 +30,7 @@ value;
 *Everything in JS is an object including primitive data types.*
 
 
-##Tex
+##Tex Morgan
 **What to learn after codeup??**
 * *supplemental technology*
 * *Deep dive what you think you know*
@@ -43,4 +43,24 @@ value;
 * *check for bugs in his framework https://github.com/inselberge/amphibian*
 * *follow in social media*
 * *trade time*
+* *email at texmorgan@gmail.com for people we should know on twitter*
+
+##Ben
+
+###String interpolation
+DNE in JS D:
+
+You have to concatenate with the `+`.
+
+###Parse Int
+finds the number vaule in a string
+
+`parsefloat()` too
+
+###Mozilla Development Network
+reference for JS
+
+###<script>
+`<script></script>` is how you implement javascript into your html pages.
+
 
