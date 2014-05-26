@@ -36,6 +36,7 @@ value;
 * *Deep dive what you think you know*
 * *Not complementary technology*
 	* *stay away from ruby/python/that stuff*
+
 **How can we help him?**
 * *find a coding mentor*
 * *know your limits*
